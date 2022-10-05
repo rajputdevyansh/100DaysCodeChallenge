@@ -1,4 +1,15 @@
-mport java.util.Scanner;
+/*
+Problem:- to delete the occurance of an word form an statement 
+
+Sample Input/Output:-
+Enter the statement ...
+Hello how do you do Hello are you fine Hello its good to see you  
+Enter the word you want to delete ...
+Hello
+ how do you do  are you fine  its good to see you 
+
+*/
+import java.util.Scanner;
 
 public class DelOccurrence {
     static void deleteOccurrence(String str, String delete) {
@@ -6,8 +17,6 @@ public class DelOccurrence {
         String search = delete.toLowerCase();
         String ResultString = "";
     
-        // str = this is the suman the vit student thi vitian
-        // delete = the
     
         int len = search.length(); // 3
         char ch = search.charAt(0); // t
