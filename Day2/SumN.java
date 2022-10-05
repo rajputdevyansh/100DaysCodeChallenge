@@ -1,3 +1,13 @@
+/*
+to print the sum of 0 to n number taken from user using loop
+
+Sample input/output:-
+
+Enter Numbers
+8
+Sum:-  36
+
+*/
 public class SumN {
     public static void main(String[] args) {
         int i,n,sum=0;
