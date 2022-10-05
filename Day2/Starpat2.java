@@ -1,4 +1,15 @@
-ublic class Starpat2 {
+/*
+To print a simple pattern * using loops
+
+Sample output:- 
+
+****
+***
+**
+*
+
+*/
+public class Starpat2 {
     public static void main(String[] args) {
         int n=4;
         for(int i=1;i<=n;i++)
