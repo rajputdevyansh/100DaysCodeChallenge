@@ -1,3 +1,13 @@
+/*
+to print a reverse of an given integer
+
+sample input/output:- 
+
+Enter the no
+5587
+7 8 5 5 
+
+*/
 import java.util.Scanner;
 
 public class RevN {
