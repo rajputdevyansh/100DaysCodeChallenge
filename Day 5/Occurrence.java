@@ -1,3 +1,15 @@
+/*
+problem:- to count the occurence of a word in a statement
+
+Sample input/output
+
+Enter the statement 
+Hello Good Morning
+Enter the word looking for 
+Hello
+The word Hello Occurrences is = 1
+
+*/
 import java.util.Scanner;
 
 public class Occurrence {
