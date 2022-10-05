@@ -1,3 +1,15 @@
+/*
+Problem:- to covert lower case string into upper case string
+
+Sample input/output:- 
+
+Enter any String 
+hello
+Given String = hello
+Updated String = HELLO
+
+*/
+
 import java.util.Scanner;
 
 public class LowertoUpper {
