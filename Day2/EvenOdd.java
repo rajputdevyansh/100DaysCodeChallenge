@@ -1,3 +1,17 @@
+/*
+to check if a number is even or odd
+
+Sample input/output:- 
+
+enter the no
+58
+No is Even
+
+enter the no
+-89
+No is Odd
+
+*/
 import java.util.Scanner;
 
 public class EvenOdd {
