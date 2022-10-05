@@ -1,3 +1,17 @@
+/*
+to get the day by enterning the day no using switch case
+
+Sample Input/output:- 
+
+Enter Day no
+7
+Sunday
+
+Enter Day no
+8
+Entered wrong day no
+
+*/
 import java.util.Scanner;
 
 public class WeekDay {
