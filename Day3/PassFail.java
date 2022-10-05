@@ -1,3 +1,17 @@
+/*
+to check if a student is pass or fail pass marks>=33
+
+Sample input/output;- 
+
+enter marks
+74
+pass
+
+enter marks
+22
+Fail
+
+*/
 import java.util.Scanner;
 
 public class PassFail {
