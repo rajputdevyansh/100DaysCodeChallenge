@@ -1,3 +1,14 @@
+/*
+problem:- to print a simple pattern using loop
+
+Sample output:- 
+
+A
+BC
+DEF
+GHIJ
+
+*/
 public class CharPat {
     public static void main(String[] args) {
         int n=4;
