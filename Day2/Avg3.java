@@ -1,3 +1,17 @@
+/*
+Problem:- To calculate average of 3 numbers
+calulated the sum of all numbers and calulating the average
+
+Sample input/output:- 
+
+Enter Numbers
+47
+85
+99
+Output:- 
+77
+
+*/
 import java.util.Scanner;
 
 public class Avg3 {
