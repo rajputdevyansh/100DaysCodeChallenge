@@ -1,3 +1,37 @@
+/*
+Input Format
+
+The first line contains an integer,T , denoting the number of test cases.
+Each test case, T, is comprised of a single line with an integer,n , which can be arbitrarily large or small.
+
+Output Format
+
+For each input variable n and appropriate primitive datatype , you must determine if the given primitives are capable of storing it. If yes, then print:
+
+sample input:- 
+5
+-150
+150000
+1500000000
+213333333333333333333333333333333333
+-100000000000000
+
+sample output:- 
+-150 can be fitted in:
+* short
+* int
+* long
+150000 can be fitted in:
+* int
+* long
+1500000000 can be fitted in:
+* int
+* long
+213333333333333333333333333333333333 can't be fitted anywhere.
+-100000000000000 can be fitted in:
+* long
+
+*/
 import java.util.Scanner;
 
 public class JavaDatatypes {
