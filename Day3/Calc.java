@@ -1,3 +1,14 @@
+/*
+to create a basic calulator using switch case
+
+sample input/output:- 
+
+85
+5
+/
+Division of values:- 17
+
+*/
 import java.util.Scanner;
 
 public class Calc {
