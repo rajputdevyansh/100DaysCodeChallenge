@@ -1,3 +1,13 @@
+/*
+Problem:- To count the number of vowels in statement
+
+Sample Probelm:- 
+
+Enter the statement 
+Good Morning
+The Number of vowels = 4
+
+*/
 import java.util.Scanner;
 
 public class Vowels {
