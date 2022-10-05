@@ -1,3 +1,12 @@
+/*
+problem:- to delete all vowels for a statement
+
+Sample Input/Output:- 
+Enter the Statement...
+good morning 
+gd mrnng
+
+*/
 import java.util.Scanner;
 
 public class DelVowel {
