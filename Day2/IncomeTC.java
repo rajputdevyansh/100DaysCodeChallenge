@@ -1,3 +1,17 @@
+/*
+To calculate income tax 
+
+Sample input/output:- 
+
+Enter your Income
+74110
+Tax is 0
+
+Enter your Income
+74444440
+Tax is 30%:- 2.2333332E7
+
+*/
 import java.util.Scanner;
 
 public class IncomeTC {
