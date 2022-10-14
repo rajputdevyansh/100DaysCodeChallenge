@@ -1,5 +1,13 @@
-package CH1;
+/*
+to create pattern of using characters 
+sample output
 
+A
+BC
+DEF
+GHIJ
+
+*/
 public class CharPat {
     public static void main(String[] args) {
         int n=4;
